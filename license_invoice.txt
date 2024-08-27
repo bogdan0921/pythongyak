@@ -1,0 +1,4 @@
+Service: fm
+Validity: 2024.05.07
+Station:  Name: Sopron, Effective: 100, Power: 30
+Amount: 3000
